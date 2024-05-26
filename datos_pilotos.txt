@@ -1,0 +1,22 @@
+Joan Mir;Repsol Honda Team;Honda;España
+Luca Marini;Repsol Honda Team;Honda;Italia
+Fabio Quartararo;Yamaha Factory;Yamaha;Francia
+Alex Rins;Yamaha Factory;Yamaha;España
+Francesco Bagnaia;Ducati Team;Ducati;Italia
+Enea Bastianini;Ducati Team;Ducati;Italia
+Brad Binder;Red Bull KTM ;KTM;Sudáfrica
+Jack Miller;Red Bull KTM ;KTM;Australia
+Aleix Espargaro;Aprilia Racing;Aprilia;España
+Maverick Viñales;Aprilia Racing;Aprilia;España
+Jorge Martín;Pramac Racing;Ducati;España
+Franco Morbidelli;Pramac Racing;Ducati;Francia
+Takaaki Nakagami;Team LCR;Honda;Japón
+Johan Zarco;Team LCR;Honda;Francia
+Augusto Fernández;GasGas Tech3;KTM;España
+Pedro Acosta;GasGas Tech3;KTM;España
+Marco Bezzecchi;Mooney VR46;Ducati;Italia
+Fabio Di Giannantonio;Mooney VR46;Ducati;Italia
+Marc Márquez;Gresini Racing;Ducati;España
+Alex Márquez;Gresini Racing;Ducati;España
+Miguel Oliveira;Trackhouse;Aprilia;Portugal
+Raúl Fernández;Trackhouse;Aprilia;España
